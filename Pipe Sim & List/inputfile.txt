@@ -1,0 +1,2 @@
+cat test.txt
+grep -E bash
